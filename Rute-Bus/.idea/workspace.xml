@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="" />
+    <option name="COMMIT_PATTERN" value="{message}" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Statis" targetName="Statis" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38ae23f6-cc7e-4a97-a09f-1482a0c72e87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1cnI5bsvPjY1mjYBwC7dFKcvxi5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Statis" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Statis" TARGET_NAME="Statis" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Statis" RUN_TARGET_NAME="Statis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38ae23f6-cc7e-4a97-a09f-1482a0c72e87" name="Default Changelist" comment="" />
+      <created>1591157747843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591157747843</updated>
+      <workItem from="1591157749514" duration="21000" />
+      <workItem from="1591158636044" duration="985000" />
+      <workItem from="1591161918275" duration="7000" />
+      <workItem from="1591164946742" duration="689000" />
+      <workItem from="1591168447696" duration="417000" />
+      <workItem from="1591287156935" duration="888000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1013" height="569" key="GridCell.Tab.0.bottom" timestamp="1591288896855">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1013" height="569" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1591288896855" />
+    <state width="1013" height="210" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1591159183888" />
+    <state width="1013" height="569" key="GridCell.Tab.0.center" timestamp="1591288896854">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1013" height="569" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1591288896854" />
+    <state width="1013" height="210" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1591159183887" />
+    <state width="1013" height="569" key="GridCell.Tab.0.left" timestamp="1591288896853">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1013" height="569" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1591288896853" />
+    <state width="1013" height="210" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1591159183886" />
+    <state width="1013" height="569" key="GridCell.Tab.0.right" timestamp="1591288896854">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1013" height="569" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1591288896854" />
+    <state width="1013" height="210" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1591159183887" />
+  </component>
+</project>

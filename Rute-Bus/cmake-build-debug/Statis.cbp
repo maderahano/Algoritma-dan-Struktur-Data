@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Statis"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Statis">
+				<Option output="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Statis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 Statis"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Statis/fast">
+				<Option output="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Statis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 Statis/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/kindaryaf/Kuliah\ PENS/Fabyan\ Kindarya\ D4\ IT\ A\ (2019)/Semester\ 2/Algoritma\ dan\ Struktur\ Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/main.c">
+			<Option target="Statis"/>
+		</Unit>
+		<Unit filename="/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Statis/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

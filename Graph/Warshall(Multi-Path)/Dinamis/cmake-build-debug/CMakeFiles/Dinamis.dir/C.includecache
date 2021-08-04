@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Dinamis/main.c
+stdio.h
+-
+

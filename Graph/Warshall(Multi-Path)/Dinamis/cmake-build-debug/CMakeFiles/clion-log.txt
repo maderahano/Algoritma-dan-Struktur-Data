@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Dinamis"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kindaryaf/Kuliah PENS/Fabyan Kindarya D4 IT A (2019)/Semester 2/Algoritma dan Struktur Data/Praktikum/Graph/Warshall(Multi-Path)/Dinamis/cmake-build-debug
